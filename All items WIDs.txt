@@ -1,0 +1,210 @@
+All items WIDs
+Subscribe to agent_peely on youtube
+This is hopefully the most updated list of WIDs out there and I will contue updating it with your help
+last update: 22-01-2024
+DM adventure_peely on discord if you have a WID that is not in this list
+-----------------------------------------------------------------------------------------------
+Mythics
+the ageless champion's shockwave hammer - WID_Muster_ShockwaveMace_Mythic
+Tactical pistol - WID_Pistol_Muster_Athena_UR
+Striker pump shotgun - WID_Shotgun_CoreBurst_Athena_UR
+Spire Assassin's primal shotgun - WID_Shotgun_Bone_Athena_Boss
+zyg & choppy's ray gun - WID_Assault_LlamaRoaster_Boss
+Wildguard relik's cloak gauntlets - WID_Chrono_Cloak_UR_JungBoss
+Thorne's vampiric blade - WID_Melee_Vampire_Katana
+Raz's explosive bow - WID_Bow_ClusterBomb_Athena_Boss
+Two shot shotgun - WID_Shotgun_TwoShot_Pump_Athena_UR
+Prime shotgun - WID_Shotgun_OverLoad_Athena_UR
+Charge SMG - WID_ChargeSMG_Athena_UR
+Combat SMG - WID_SMG_Recoil_Athena_UR
+Cobra DMR - WID_DMR22_Athena_UR
+DMR - WID_DMR_Athena_UR
+Auto shotgun - WID_Shotgun_CoreDPS_Athena_UR
+High stakes shotgun - WID_VampireStake_Shotgun_UR
+Gunnar's stinger SMG - WID_SMG_CoreSMG_Athena_UR_IOBrute
+Hammer assault rifle - WID_Assault_Heavy_Recoil_Athena_UR
+havoc suppressed assault rifle - WID_Assault_Radical_CoreAR_Athena_UR
+Brutus' minigun - WID_Boss_Hos_MG
+Meowscle's peow peow rifle - WID_Boss_Meow_HA
+infinity blade - AGID_Sword
+Deku's smash - WID_EmeraldGlass_Push
+Kamehameha - WID_Stamina_Hawaii
+Nimbus cloud - WID_Stamina_Alaska
+kit's charge shotgun - WID_Shotgun_Charge_Athena_UR_Ore_T03
+inkquisitor's suppressed SMG - WID_Boss_Freaky
+Midas/Jules' drum gun - WID_Boss_Midas
+Jules' Glider gun - WID_Boss_GrapplingHoot
+heavy sniper rifle - WID_Sniper_Heavy_Athena_UR_Ore_T03
+enhanced havoc shotgun - WID_Shotgun_RadicalPump_Athena_UR
+enhanced infiltrator pump shot gun - WID_Shotgun_HopScotch_Athena_UR_MMO
+enhanced drum shotgun - WID_Shotgun_AutoDrum_Athena_UR_Ore_T03
+Thorne's scoped burst SMG - WID_SMG_RedDot_Athena_UR_ThorneBoss
+Rapid fire SMG - WID_Pistol_RapidFireSMG_Athena_UR_Ore_T03
+Sideways minigun - WID_Assault_LMG_Powerup_Athena_UR
+Sideways rifle - WID_Rifle_Powerup_Athena_UR
+Sideways Scythe - WID_PowerUp_Scythe_UR
+web shooters v1 - wid_westsausage_parallel
+web shooters v2 - wid_westsausage_fearlessflight
+TNTina's KaBoom Bow - WID_Boss_Tina
+Deadpool's Hand Cannons - WID_Pistol_Donut
+ranger assault rifle - WID_Assault_CoreAR_Athena_UR
+slone's pulse rifle - WID_Assault_PastaRipper_Athena_Boss
+spire guardian's primal assault rifle - WID_Assault_Bone_Athena_Boss
+Spire assassin's recycler - WID_JunkGun_Athena_Boss
+Spire jumpboots - AGID_Athena_JumpBoots
+Relik's MK-Alpha assault rifle - WID_Assault_Chrono_RedDotAR_Athena_UR
+Foundation's MK-Seven assault rifle - WID_Assault_RedDotAR_Athena_UR_TheFoundation
+Enhanced flapjack rifle - WID_Assault_Chrono_Pan_Rifle_Athena_UR
+striker burst rifle - WID_Assault_RedDotBurstAR_Athena_UR
+slone's burst assault rifle - WID_Assault_SemiAuto_Athena_UR_Slone
+skye's assault rifle - WID_Boss_Adventure_AR
+Skye's Grappler - WID_Boss_Adventure_GH
+Shadow midas' drum gun - WID_Boss_GhostMidas
+ocean's burst assault rifle - WID_Assault_SemiAuto_Athena_UR_Ore_T03
+ocean's Bottomless Chug Jug - WID_Athena_BottomlessChugJug
+the ageless champion's ex caliber rifle - WID_Sniper_NoScope_ExSword_Athena_UR_EmblemBoss
+thermal DMR - WID_DMR_Chrono_ToggleThermal_Athena_UR
+Explosive repeater rifle - WID_Sniper_ExplosiveRepeater_Athena_UR
+Kit's shockwave launcher - WID_Launcher_Shockwave_Athena_UR_Ore_T03
+Dr Doom's Gauntlets - WID_HighTower_Date_ChainLightning_CoreBR
+Dr Doom's Mystical Bomb - WID_HighTower_Date_BallLightning_CoreBR
+Venom's Grab - WID_HighTower_Vertigo_Punch_CoreBR
+Wolverine's Claws - WID_HighTower_Wasabi_Claws_CoreBR
+Wolverine's Claws (any version above 14.00) - WID_Wasabi_Claws
+Storm's Whirlwind Blast - WID_HighTower_Squash_WhirlwindBlast_CoreBR
+Silver Surfer's Surfboard - WID_HighTower_Soy_Boarding_CoreBR
+Iron Man's Repulsors - WID_HighTower_Tomato_Repulsor_CoreBR
+Iron Man's Unibeam  - WID_HighTower_Tomato_RepulsorCannon_CoreBR
+Thor's Mjolnir Strike - WID_HighTower_Tapas_SkyStrike_CoreBR
+Groot's Bramble Shield - WID_HighTower_Grape_BrambleShield_CoreBR
+She Hulk's Fists - WID_HighTower_HoneyDew_Fists_CoreBR
+Black Panther's Kinetic Armor - WID_HighTower_Plum_KineticAbs_CoreBR
+Witch Broom - WID_Athena_WitchBroom
+Predator's Cloaking Device - WID_Nightmare_Cloak
+Paredator's Claw  - WID_Nightmare_Melee
+Mythic goldfish: WID_Athena_Bucket_Nice
+Amban Sniper Rifle - WID_Sniper_Cosmos_Athena_VR
+The Mandalorian's Jetpack - AGID_Cosmos_Jelly
+Mystique's Dual Auto Pistols - WID_HighTower_Mango_DualPistol_Auto_Heavy_Athena
+Infinity Gauntlet - AGID_AshtonPack
+Iron Man Repulsor Gauntlets - AGID_AshtonPack_Indigo
+Thor's Stormbreaker - AGID_AshtonPack_Turbo
+Captain America Shield - AGID_AshtonPack_Chicago
+Hawkeye Bow - AGID_AshtonPack_Hippo
+Chitauri Jetpack - AGID_JetPack_AshtonPack_Milo
+Chitauri Laser Rifle - WID_AshtonPack_Milo
+OverClocked Pulse Rifle - WID_Assault_PastaRipper_Athena_MMObj
+Highcard's Havoc Suppressed Rifle - WID_Assault_Radical_CoreAR_Athena_UR_CloneBoss
+Huntmaster Saber's Thermal Rifle - WID_Assault_Surgical_Thermal_Athena_UR_ThunderMeow
+Slone's Burst Assault Rifle - WID_Assault_RedDotBurstAR_Athena_UR_Slone
+First Order Blaster Rifle  - WID_Galileo_Bun_Athena_UC
+Power Stone - AshtonRockItemDef_P
+Space Stone - AshtonRockItemDef_B
+Reality Stone - AshtonRockItemDef_R
+Soul Stone - AshtonRockItemDef_O
+Time Stone - AshtonRockItemDef_G
+Mind Stone - AshtonRockItemDef_Y
+Vault Access Key - SparklyJIbbletToken
+Chitauri Pack (Gives all 3 Chitauri items) - AGID_AshtonPack_Milo
+Normal Mythic Stinger - WID_SMG_CoreSMG_Athena_UR
+ODM Gear - AGID_NyxGlass
+Thunder Spears - WID_Launcher_FeyCrab
+Green Lightsaber - WID_Athena_Galileo_Lobster_Limo
+Blue Lightsaber - WID_Athena_Galileo_Lobster_Rocket
+Purple Lightsaber - WID_Athena_Galileo_Lobster_Moped
+Red Lightsaber - WID_Athena_Galileo_Lobster_Kayak
+E-11 Blaster Rifle - WID_Cosmos_AR_Athena_UC
+First Order Blaster Rifle - WID_Galileo_Bun_Athena_UC
+Some other Lightsabers and starwars stuff -  
+WID_Athena_Galileo_Lobster_Realm
+WID_Athena_Galileo_Lobster_Kayak
+WID_Athena_Galileo_Lobster_Moped
+WID_Athena_Galileo_Lobster_Rocket
+WID_Athena_Galileo_Lobster_Limo_ANH
+WID_Sniper_Cosmos_Athena_VR
+WID_Athena_Galileo_Lobster_Limo_ROTJ
+WID_Athena_Galileo_Lobster_PlotTwist_Sith_Red_01
+WID_Athena_Galileo_Lobster_PlotTwist_Jedi_Green_01
+WID_Athena_Galileo_Lobster_PlotTwist_Jedi_Blue_01
+WID_PlotTwistRifle
+-----------------------------------------------------------------------------------------------
+Exotics
+Boom Sniper Rifle - WID_WaffleTruck_BoomSniper
+The Big Chill - WID_WaffleTruck_ChillerLauncher
+The Dub - WID_WaffleTruck_Dub
+Hop Rock Dualies - WID_WaffleTruck_HopRockDualies
+Burst Quad Launcher - WID_WaffleTruck_Launcher_DrunkenQuad
+Night Hawk - WID_WaffleTruck_Pistol_ThermalScope
+Shadow Tracker - WID_WaffleTruck_Pistol_Tracking
+Chug Cannon - WID_WaffleTruck_Rocket_Slurp
+Frozen SMG - WID_WaffleTruck_SMG_Frozen
+Dragon Breath Sniper - WID_WaffleTruck_Sniper_DragonBreath
+Exotic Storm Scout - WID_WaffleTruck_Sniper_StormScout
+Unstable Bow - WMID_Athena_UnstableBow
+SypherPK Trap Tower - WID_Headset_A
+Grappler bow - WID_Athena_Bow_Grappler
+Marksman six shooter - WID_MarksmanRevolver
+Heisted breacher shotgun - WID_Shotgun_Breach_Athena_X
+Heisted accelerant shotgun - WID_Shotgun_Stack_Athena_X
+Heisted run 'N' gun SMG - WID_Athena_SMG_Slap_X
+Heisted blink mag SMG - WID_SMG_MusterQuick_Athena_ZeroX
+Heisted explosive assault rifle - WID_Assault_MusterScoped_Athena_EX
+Burst pulse rifle - WID_Assault_PastaRipper_E
+Chili chug splash - WID_Athena_SpicySoda
+Super slap splash - WID_Chrono_ExoticSlapSplash
+Icy grappler - WID_Athena_IcyGrapple
+-----------------------------------------------------------------------------------------------
+Normal weapons
+Legendary
+Assault rifle (scar) - WID_Assault_AutoHigh_Athena_SR_Ore_T03
+Assault rifle - WID_Assault_Auto_Athena_SR_Ore_T03
+Pump shotgun - WID_Shotgun_Standard_Athena_SR_Ore_T03
+tactical shotgun - WID_Shotgun_HighSemiAuto_Athena_SR_Ore_T03
+heavy sniper rifle - WID_Sniper_Heavy_Athena_SR_Ore_T03
+bold action sniper rifle - WID_Sniper_BoltAction_Scope_Athena_SR_Ore_T03
+Suppressed Sniper Rifle - WID_Sniper_Suppressed_Scope_Athena_SR_Ore_T03
+Hunting rifle - WID_Sniper_NoScope_Athena_SR_Ore_T03
+Kingsman - WID_UncleBrolly
+more coming soon..
+
+Consumables
+minis (og) - Athena_ShieldSmall
+minis - WID_Paprika_ShieldSmall
+Shield potion (og) - Athena_Shields
+Shield potion WID_Paprika_ShieldPot
+chug splash - Athena_ChillBronco
+chug jug - Athena_SuperMedkit
+Slurp juice - Athena_PurpleStuff'
+Flopper - WID_Athena_Flopper
+Small Fry - WID_Athena_FlopperSmall
+Slurp Fish - WID_Athena_Flopper_Effective
+Shield Fish - WID_Athena_Flopper_Shield
+Jelly Fish - WID_Athena_Flopper_JellyFish
+Midas Flopper - WID_Athena_MechanicFlopper
+Vendetta Flopper - WID_Athena_BattleFlopper
+Rift Fish - WID_Athena_Flopper_Rift
+Stink Fish - WID_Athena_Flopper_GasFlopper
+Spicy Fish - WID_Athena_Flopper_FireFlopper
+Thermal Fish - WID_Athena_Flopper_Thermal
+Zero Point Fish - WID_Athena_Flopper_Zero
+Snowy Flopper - WID_Athena_Flopper_Snowman
+Hop Flopper - WID_Athena_Flopper_HopFlopper
+Shadow Flopper - WID_Athena_Flopper_Cube
+Cuddle fish - WID_Athena_Flopper_CuddleFish
+Bandage (og) - Athena_Bandage
+Bandage - WID_Paprika_Bandage
+Medkit (og) - Athena_Medkit
+Medkit - WID_Paprika_MedBox
+more coming soon..
+
+Movement
+Grapple Glove - WID_GrappleGloves
+Grapple Glider - WID_GrappleGlider
+Grappler - WID_Hook_Gun_VR_Ore_T03
+rocket ram - WID_RocketRam
+kinetic blade - WID_Melee_Katana
+shockwave hammer - WID_Muster_ShockwaveMace
+inflate a bull - AGID_CageSaddle_V2
+Grab-itron - WID_GravyGoblinV2_Athena
+Chrome splash - WID_Athena_ChromeSplash
+more coming soon..
